@@ -1,0 +1,16 @@
+.table{
+    margin: 0 auto;
+    padding: 20px;
+}
+.jumbotron{
+    background: black;
+}
+ul{
+    margin: 0 auto;
+    padding: 40px;
+}
+nav{
+    background: black;
+    margin: 0 auto;
+    padding: 20px;
+}
